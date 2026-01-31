@@ -1,6 +1,4 @@
----
-
-## 📄 `README.md`
+readme.md
 
 ```markdown
 # AI Artist Name Generator
@@ -198,4 +196,5 @@ numpy
 ```
 
 ---
+
 
